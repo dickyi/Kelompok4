@@ -94,7 +94,7 @@ public class Biodata_Rizal extends javax.swing.JFrame {
         jLabel13.setText("https://github.com/rizalzaul28");
 
         jLabel14.setFont(new java.awt.Font("Segoe UI", 0, 13)); // NOI18N
-        jLabel14.setText("Dsn. Dungbang Ds. Ngudikan Kec. Wilangan Kab. Nganjuk");
+        jLabel14.setText("Ds. Ngudikan Kec. Wilangan Kab. Nganjuk");
 
         jButton1.setBackground(new java.awt.Color(55, 66, 250));
         jButton1.setFont(new java.awt.Font("Segoe UI Semibold", 0, 12)); // NOI18N
@@ -153,7 +153,7 @@ public class Biodata_Rizal extends javax.swing.JFrame {
                     .addComponent(jLabel12)
                     .addComponent(jLabel14)
                     .addComponent(jLabel13))
-                .addContainerGap(9, Short.MAX_VALUE))
+                .addContainerGap(103, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
