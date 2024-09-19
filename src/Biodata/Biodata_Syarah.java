@@ -60,7 +60,7 @@ public class Biodata_Syarah extends javax.swing.JFrame {
         jLabel1.setBackground(new java.awt.Color(255, 255, 153));
         jLabel1.setForeground(new java.awt.Color(204, 0, 0));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Biodata/poto projek.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Foto/poto projek.png"))); // NOI18N
         jLabel1.setBorder(new javax.swing.border.MatteBorder(null));
 
         jLabel2.setFont(new java.awt.Font("Segoe UI Semibold", 0, 14)); // NOI18N
